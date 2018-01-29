@@ -1,0 +1,7 @@
+[
+  {
+    "path": "/",
+    "page": "./pages/index",
+    "chunk": "main"
+  }
+]
