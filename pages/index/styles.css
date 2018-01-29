@@ -10,8 +10,9 @@
 .heart { 
 	position: relative;
 	width: 26px;
+	height: 28px;
 	left: -591px;
-	top: 180px;
+	top: 482px;
 	cursor: pointer;
 }
 
